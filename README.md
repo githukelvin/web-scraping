@@ -1,10 +1,15 @@
 ## Web Scraping with Requests and Beautiful Soup
 This repository contains a Python script for web scraping using the Requests library and Beautiful Soup. The script allows you to extract specific information from websites by parsing their HTML structure.
 
+## link
+<a href="https://githukelvin.github.io/web-scraping/">Live site</a>
+
+The site above uses data that was already scraped from the Jiji site
+
 ## Prerequisites
 To run the web scraping script, you'll need the following:
 
-Python 3.x installed on your machine
+Python 3. x installed on your machine
 The Requests library (pip install requests)
 Beautiful Soup (pip install beautifulsoup4)
 
@@ -36,4 +41,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ## Acknowledgments
 The Requests library: https://docs.python-requests.org/
 Beautiful Soup: https://www.crummy.com/software/BeautifulSoup/
-Thank you for using this web scraping script! Feel free to provide feedback or contribute to its development. Happy scraping!
+Thank you for using this web scraping script! Feel free to provide feedback or contribute to its development. Happy scrapping!
